@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "PlayerPraDeixarOServerLigado",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
+    "ip": "SDBESLEBL.aternos.me",
     "port": 44019,
     "version": "",
     "try-creative": false
@@ -30,11 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+      "messages": []
     },
     "chat-log": true,
     "auto-reconnect": true,
